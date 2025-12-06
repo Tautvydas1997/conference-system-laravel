@@ -10,6 +10,9 @@ class ConferenceService
     private Collection $registrations;
     private int $nextId;
 
+    /**
+     * Initialize ConferenceService with sample data
+     */
     public function __construct()
     {
         $this->conferences = collect([

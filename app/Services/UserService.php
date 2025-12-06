@@ -9,6 +9,9 @@ class UserService
     private Collection $users;
     private int $nextId;
 
+    /**
+     * Initialize UserService with sample data
+     */
     public function __construct()
     {
         $this->users = collect([
