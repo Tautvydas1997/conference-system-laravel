@@ -23,7 +23,7 @@
                         <div class="card h-100">
                             <div class="card-body">
                                 <h5 class="card-title">{{ $conference['name'] }}</h5>
-                                <p class="card-text">{{ Str::limit($conference['description'], 100) }}</p>
+                                <p class="card-text">{{ \Illuminate\Support\Str::limit($conference['description'], 100) }}</p>
                                 <p class="card-text">
                                     <small class="text-muted">
                                         {{ __('conferences.date') }}: {{ $conference['date'] }} {{ $conference['time'] }}
