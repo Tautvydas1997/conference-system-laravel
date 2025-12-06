@@ -11,8 +11,8 @@
             </div>
             <div class="card-body">
                 <p><strong>{{ __('common.student_name') }}:</strong> Tautvydas</p>
-                <p><strong>{{ __('common.student_surname') }}:</strong> Kairys</p>
-                <p><strong>{{ __('common.student_group') }}:</strong> [Grupė]</p>
+                <p><strong>{{ __('common.student_surname') }}:</strong> Kasperavičius</p>
+                <p><strong>{{ __('common.student_group') }}:</strong> PIT-22-I-NT</p>
             </div>
         </div>
 
