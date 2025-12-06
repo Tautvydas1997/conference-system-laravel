@@ -12,7 +12,7 @@
             <div class="card-body">
                 <p><strong>{{ __('common.student_name') }}:</strong> Tautvydas</p>
                 <p><strong>{{ __('common.student_surname') }}:</strong> Kairys</p>
-                <p><strong>{{ __('common.student_group') }}:</strong> [Grupe]</p>
+                <p><strong>{{ __('common.student_group') }}:</strong> [Grupė]</p>
             </div>
         </div>
 
