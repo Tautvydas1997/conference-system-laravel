@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * Web routes for Conference Management System
+ */
+
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\ClientController;
 use App\Http\Controllers\EmployeeController;
