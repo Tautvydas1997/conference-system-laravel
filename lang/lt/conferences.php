@@ -1,0 +1,32 @@
+<?php
+
+return [
+    'title' => 'Konferencijos',
+    'list' => 'Konferencijų sąrašas',
+    'create' => 'Sukurti naują konferenciją',
+    'edit' => 'Redaguoti konferenciją',
+    'show' => 'Konferencijos informacija',
+    'name' => 'Pavadinimas',
+    'description' => 'Aprašymas',
+    'lecturers' => 'Lektoriai',
+    'date' => 'Data',
+    'time' => 'Laikas',
+    'address' => 'Adresas',
+    'status' => 'Būsena',
+    'planned' => 'Planuojama',
+    'completed' => 'Įvykusi',
+    'no_conferences' => 'Nėra konferencijų',
+    'back_to_list' => 'Grįžti į sąrašą',
+    'save' => 'Išsaugoti',
+    'delete' => 'Šalinti',
+    'edit_action' => 'Redaguoti',
+    'view_action' => 'Peržiūrėti',
+    'register' => 'Registruotis',
+    'delete_confirmation' => 'Ar tikrai norite pašalinti šią konferenciją?',
+    'created_success' => 'Konferencija sėkmingai sukurta',
+    'updated_success' => 'Konferencija sėkmingai atnaujinta',
+    'deleted_success' => 'Konferencija sėkmingai pašalinta',
+    'cannot_delete_completed' => 'Negalima šalinti jau įvykusios konferencijos',
+    'registered_success' => 'Sėkmingai užsiregistravote į konferenciją',
+];
+
